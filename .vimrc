@@ -1,3 +1,6 @@
 " color scheme
 syntax 		on
-colorscheme	peachpuff
+colorscheme	industry
+
+" plugins
+autocmd VimEnter * NERDTree	" file explorer
